@@ -1,0 +1,42 @@
+{
+  "firstName": "Aarti",
+  "middleName": "M.",
+  "SecondName": "Lakhatariya",
+  "age": "21",
+  "gender": "Female",
+  "birtDate": "2003-10-13",
+  "email": "aartilakhatariya@gmail.com",
+  "phone": "+91 8780176087",
+
+  "CurrentAddress": {
+    "street": "Gunatit Nagar",
+    "taluka": "Gongal",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "zip": "360311"
+  },
+  "permanentAddress": {
+    "street": "Gunatit Nagar",
+    "taluka": "Gongal",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "zip": "360311"
+  },
+  "AcademicDetails": [
+    {
+      "university": "Saurastra University",
+      "degree": "BCA",
+      "stream": "Computer Science",
+      "Year": "2021-2024"
+    },
+    {
+      "university": "Atmiya University",
+      "degree": "Msc.IT",
+      "stream": "Faculty of Science",
+      "Department": "CS & IT",
+      "Year": "2024-2026"
+    }
+  ],
+  "hobbies": ["sketching", "Reading", "Writing"],
+  "languages": ["Gujarati", "Hindi", "English"]
+}

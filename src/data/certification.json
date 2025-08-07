@@ -1,0 +1,16 @@
+{
+  "certification": [
+    {
+      "course_name": "Python for Everybody",
+      "platform": "Coursera",
+      "date": "2024-02-15",
+      "credential_url": "https://coursera.org/verify/abc123"
+    },
+    {
+      "course_name": "Front-End Web Development with React",
+      "platform": "Udemy",
+      "date": "2023-11-10",
+      "credential_url": "https://udemy.com/certificate/xyz456"
+    }
+  ]
+}

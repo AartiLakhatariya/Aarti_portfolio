@@ -1,0 +1,168 @@
+{
+  "FirstName": "Aarti",
+  "SecondNaleName": "M.",
+  "LastName": "Lakhatariya",
+  "degree": "Msc.IT",
+  "stream": "Faculty of Science",
+  "Department": "CS & IT",
+  "EnrollmentNo": "240821010",
+  "Examination": [{ "sem1": "November-2024", "sem2": "May-2025" }],
+  "result": [
+    {
+      "sem1": [
+        {
+          "Course Code": "20MITCC101",
+          "Course": "Core 1: Structured Object Oriented Analysis and Design Methodology",
+          "marks": "71",
+          "grade point": "8",
+          "grade": "A",
+          "result": "Pass"
+        },
+        {
+          "Course Code": "20MITCC102",
+          "Course": "Core 2: Advanced Web Development in LARAVEL",
+          "marks": "79",
+          "grade point": "8",
+          "grade": "A",
+          "result": "Pass"
+        },
+        {
+          "Course Code": "20MITCC103",
+          "Course": "Core 3: Programming with Python",
+          "marks": "96",
+          "grade point": "10",
+          "grade": "O",
+          "result": "Pass"
+        },
+        {
+          "Course Code": "20MITID102",
+          "Course": "DSE-ID 1: Internet of Things",
+          "marks": "79",
+          "grade point": "8",
+          "grade": "A",
+          "result": "Pass"
+        },
+        {
+          "Course Code": "20MITCC104",
+          "Course": "Core Practical 1: LARAVEL Practical",
+          "marks": "96",
+          "grade point": "10",
+          "grade": "O",
+          "result": "Pass"
+        },
+        {
+          "Course Code": "20MITCC105",
+          "Course": "Core Practical 2: Programming with Python Practical",
+          "marks": "97",
+          "grade point": "10",
+          "grade": "O",
+          "result": "Pass"
+        },
+        {
+          "Course Code": "20MITCC106",
+          "Course": "Project",
+          "marks": "96",
+          "grade point": "10",
+          "grade": "O",
+          "result": "Pass"
+        }
+      ],
+      "sem2": [
+        {
+          "Course Code": "20MITCC201",
+          "Course": "Core 4: Application Development using Advanced Android",
+          "marks": "79",
+          "grade point": "8",
+          "grade": "A",
+          "result": "Pass"
+        },
+        {
+          "Course Code": "20MITCC202",
+          "Course": "Core 5: Cloud Computing with AWS",
+          "marks": "79",
+          "grade point": "8",
+          "grade": "A",
+          "result": "Pass"
+        },
+        {
+          "Course Code": "20MITCC203",
+          "Course": "Core 6: Web Programming using Advanced ASP.NET",
+          "marks": "73",
+          "grade point": "8",
+          "grade": "A",
+          "result": "Pass"
+        },
+        {
+          "Course Code": "20MITID202",
+          "Course": "DSE-ID 2: Graph Theory",
+          "marks": "95",
+          "grade point": "10",
+          "grade": "O",
+          "result": "Pass"
+        },
+        {
+          "Course Code": "20MITCC204",
+          "Course": "Core Practical 3: Advanced Android Practical",
+          "marks": "89",
+          "grade point": "9",
+          "grade": "A+",
+          "result": "Pass"
+        },
+        {
+          "Course Code": "20MITCC205",
+          "Course": "Core Practical 4: Cloud Computing with AWS & Advance ASP.NET Practical",
+          "marks": "79",
+          "grade point": "8",
+          "grade": "A",
+          "result": "Pass"
+        },
+        {
+          "Course Code": "20MITCC206",
+          "Course": "Project",
+          "marks": "96",
+          "grade point": "10",
+          "grade": "O",
+          "result": "Pass"
+        },
+        {
+          "Course Code": "18LSVE01",
+          "Course": "Value Education for Consciousness Development",
+          "marks": "-",
+          "grade point": "-",
+          "grade": "-",
+          "result": "Pass"
+        }
+      ]
+    }
+  ],
+  "PerformanceAverage": [
+    {
+      "sem1": [
+        {
+          "cgpa": "8.96",
+          "percentage": "87.71%",
+          "totalmarks": "614/700"
+        },
+        {
+          "sgpa": "8.96",
+          "percentage": "87.71%",
+          "totalmarks": "614/700"
+        }
+      ]
+    },
+    {
+      "sem2": [
+        {
+          "cgpa": "8.91",
+          "percentage": "87.14%",
+          "totalmarks": "1220/1400"
+        },
+        {
+          "sgpa": "8.87",
+          "percentage": "86.57%",
+          "totalmarks": "606/700"
+        }
+      ]
+    }
+  ]
+}

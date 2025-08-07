@@ -1,0 +1,16 @@
+{
+  "academic_projects": [
+    {
+      "title": "University Schedule Management Bot",
+      "tech_stack": ["Python", "MySQL", "Telegram Bot API"],
+      "description": "A Telegram bot that helps students and faculty check daily lecture schedules and availability.",
+      "outcome": "Improved accessibility and reduced confusion about class timings."
+    },
+    {
+      "title": "Top 10 News",
+      "tech_stack": ["Reactjs", "API"],
+      "description": "A web app that displays the top 10 news from various sources in a user-friendly interface in real-time.",
+      "outcome": "Enhanced user engagement and information accessibility."
+    }
+  ]
+}

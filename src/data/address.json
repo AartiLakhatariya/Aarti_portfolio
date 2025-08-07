@@ -1,0 +1,19 @@
+{
+  "address": [
+    {
+      "CurrentAddress": {
+        "street": "Gunatit Nagar",
+        "taluka": "Gongal",
+        "city": "Rajkot",
+        "state": "Gujarat",
+        "zip": "360311"
+      },
+      "permanentAddress": {
+        "checkbox": "sameAsCurrentAddress"
+      },
+      "correspondenceAddress": {
+        "checkbox": "sameAsCurrentAddress"
+      }
+    }
+  ]
+}

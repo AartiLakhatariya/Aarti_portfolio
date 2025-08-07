@@ -1,0 +1,12 @@
+{
+  "name": "Pooja Tank",
+  "relation": "Friend",
+  "phone": "+91-9313893476",
+  "address": {
+    "street": "Biliyala",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "zipcode": "360311",
+    "country": "India"
+  }
+}
